@@ -11,13 +11,15 @@
     "@mdi/font": "^5.1.45",
     "buefy": "^0.8.17",
     "core-js": "^3.6.4",
+    "eslint-config-standard": "^14.1.1",
     "fibers": "^5.0.0",
     "node-sass": "^4.14.0",
     "prismjs": "^1.20.0",
     "sass": "^1.26.5",
     "sass-loader": "^8.0.2",
     "vue": "^2.6.11",
-    "vue-prism-component": "^1.2.0"
+    "vue-prism-component": "^1.2.0",
+    "vue-router": "^3.3.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.3.0",
